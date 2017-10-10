@@ -1,6 +1,6 @@
 {
   "name": "keyboarder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "KeyBoarder is a small, fast javascript library for dynamically rendering visually appealing, navigatable keyboard shortcuts",
   "author": "Lorenz Lo Sauer",
   "homepage": "https://github.com/lsauer/KeyBoarder",
