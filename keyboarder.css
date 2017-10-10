@@ -260,7 +260,9 @@ kbd > b.kbConcat {
   prefixed by 'kb'
   e.g. CTRL + C will be rendered with an overline above the CTRL-key
  */
+/*
 .kbCTRL {
   text-decoration:overline;
   font-weight:bold;
 }
+*/
